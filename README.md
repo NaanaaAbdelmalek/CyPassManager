@@ -1,7 +1,7 @@
 # CyPassManager
  <br>     
 
-![images](1.png)
+![CyPassManager screenshot](/images/1.png)
 
 CyPassManager is a simple CLI Password Manager tool that works locally (Offline). It allows to manage passwords and store it securely to a local SQLite database.
 
